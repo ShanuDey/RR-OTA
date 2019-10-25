@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20sp"
+        android:text="Resurrection Remix"
+        android:textAlignment="center"
+        android:textSize="50sp" />
+
+    <TextView
+        android:id="@+id/tv_version"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20sp"
+        android:text="Version: 7.0.2"
+        android:textAlignment="center"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/tv_buildDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20sp"
+        android:text="Build Date : 25/10/2019"
+        android:textAlignment="center"
+        android:textSize="25sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn_updates"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="30sp"
+            android:text="@string/check_for_updated"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/btn_changelogs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Change Logs"
+            android:textAllCaps="false" />
+    </LinearLayout>
+</LinearLayout>
