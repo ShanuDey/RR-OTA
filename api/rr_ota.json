@@ -1,17 +1,14 @@
 {
-  "buildDate":"20191019",
-  "downloadUrl":"https://www.pling.com/p/1328885/startdownload?file_id=1571494311&file_name=download-20191019141009&file_type=application/octet-stream&file_size=230",
+  "buildDate":"20191107",
+  "downloadUrl":"https://www.pling.com/p/1328885/startdownload?file_id=1573115804&file_name=download-20191107082621&file_type=application/octet-stream&file_size=230",
   "version":"7.0.2",
   "changeLogs":[
-    "- Latest Linux 4.4.197 by @TeamEquinox",
-	"- Merged October Security Patch ; Thanks to @SujitRoy",
-	"- Added Google AR support by @Subinsmani",
-	"- Updated stockcam icon by @althafvly",
-	"- Added Offline Charging Animation by anomalchik",
-	"- Improved AUX camera by xtrymind",
-	"- Added Latest Lawnchair for UserRequest",
-	"- Network Strength Improved",
-	"- Audio Improved",
+    "- Latest Linux 4.4.199 by @TeamEquinox",
+	"- Merged November Security Patch ; Thanks to @SujitRoy",
+	"- OOS Screen Recorder",
+	"- OTA available now",
+	"- Performance and battery backup improved",
+	"- Set default phonebook access to REJECTED when user didn't choose",
 	"- Many More ..."
     ]
 }
