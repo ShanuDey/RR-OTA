@@ -1,14 +1,12 @@
 {
-  "buildDate":"20191206",
-  "downloadUrl":"https://www.pling.com/p/1328885/startdownload?file_id=1575609092&file_name=download-20191206045711&file_type=application/octet-stream&file_size=230",
+  "buildDate":"20191219",
+  "downloadUrl":"https://www.pling.com/p/1328885/startdownload?file_id=1576810673&file_name=download-20191220024413&file_type=application/octet-stream&file_size=226",
   "version":"7.0.2",
   "changeLogs":[
-	  "- December Security Patch",
-	"- Latest Linux 4.4.205",
-	"- gps: Update to LA.UM.7.2.r1-07700-sdm660.0",
-	"- bthost_ipc: Update to LA.UM.7.2.r1-07700-sdm660.0",
-	"- Update blobs from 059 ota",
-	"- Stability and performance improved",
-	"- Many More ..."
+	"- Latest Linux 4.4.206",
+	"- December Vendor Security Patch",
+	"- SafetyNet Check Success",
+	"- Smart Charging added",
+	"- GCAM issue fixed"
     ]
 }
