@@ -1,12 +1,15 @@
 {
-  "buildDate":"20191219",
-  "downloadUrl":"https://www.pling.com/p/1328885/startdownload?file_id=1576810673&file_name=download-20191220024413&file_type=application/octet-stream&file_size=226",
+  "buildDate":"20200130",
+  "downloadUrl":"https://www.pling.com/p/1328885/startdownload?file_id=1580366683&file_name=RR-P-v7.0.2-20200130-X00TD-Unofficial.zip&file_type=application/java-archive&file_size=732084497",
   "version":"7.0.2",
   "changeLogs":[
 	"- Latest Linux 4.4.206",
-	"- December Vendor Security Patch",
-	"- SafetyNet Check Success",
-	"- Smart Charging added",
-	"- GCAM issue fixed"
+	"- Latest Linux 4.4.212",
+	"- Equinox 1.2 Major Updates",
+	"- Safety Net CTS Profile Pass",
+	"- Netflix Fixed",
+	"- GCam issue fixed",
+	"- Face Unlock Working",
+	"- Added tweak to use Front & Back Torch at a time"
     ]
 }
